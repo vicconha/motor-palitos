@@ -1,0 +1,256 @@
+{
+ "titulo": "Foguete de papelão",
+ "planos": [
+  {
+   "frases": [
+    0
+   ],
+   "cenario": "vila_dia",
+   "camera": {
+    "tipo": "medio",
+    "alvo": "tito",
+    "mov": "aproxima"
+   },
+   "atores": [
+    {
+     "id": "tito",
+     "x": 0,
+     "z": 0,
+     "expr": "determinado",
+     "pose": "apontando"
+    },
+    {
+     "id": "pipoca",
+     "x": -0.7,
+     "z": 0.6,
+     "expr": "curioso",
+     "pose": "sentado"
+    }
+   ]
+  },
+  {
+   "frases": [
+    1
+   ],
+   "cenario": "vila_dia",
+   "camera": {
+    "tipo": "geral",
+    "mov": "panoramica_dir"
+   },
+   "atores": [
+    {
+     "id": "tito",
+     "x": -0.5,
+     "z": 0,
+     "expr": "determinado",
+     "pose": "neutro",
+     "muda": [
+      {
+       "em": 0.5,
+       "expr": "envergonhado",
+       "pose": "dar_ombros"
+      }
+     ]
+    },
+    {
+     "id": "zuza",
+     "x": 0.55,
+     "z": -0.3,
+     "expr": "rindo",
+     "pose": "mao_cintura",
+     "espelhar": true
+    }
+   ]
+  },
+  {
+   "frases": [
+    2
+   ],
+   "cenario": "laboratorio",
+   "transicao": "flash",
+   "camera": {
+    "tipo": "medio",
+    "mov": "afasta"
+   },
+   "atores": [
+    {
+     "id": "tito",
+     "x": -0.4,
+     "z": 0.2,
+     "expr": "feliz",
+     "pose": "comemorando"
+    },
+    {
+     "id": "pipoca",
+     "x": 0.5,
+     "z": 0.6,
+     "expr": "feliz",
+     "pose": "pulando"
+    }
+   ]
+  },
+  {
+   "frases": [
+    3
+   ],
+   "cenario": "vila_noite",
+   "camera": {
+    "tipo": "geral",
+    "mov": "sobe"
+   },
+   "atores": [
+    {
+     "id": "zuza",
+     "x": -0.6,
+     "z": 0.3,
+     "expr": "desconfiado",
+     "pose": "cruzados"
+    },
+    {
+     "id": "bento",
+     "x": 0.6,
+     "z": 0,
+     "expr": "pensativo",
+     "pose": "pensando",
+     "espelhar": true
+    },
+    {
+     "id": "tito",
+     "x": 0,
+     "z": -0.6,
+     "expr": "determinado",
+     "pose": "neutro"
+    }
+   ]
+  },
+  {
+   "frases": [
+    4
+   ],
+   "cenario": "vila_noite",
+   "camera": {
+    "tipo": "close",
+    "alvo": "tito",
+    "mov": "chicote"
+   },
+   "fx": [
+    "tremor:0.7",
+    "explosao:0.7"
+   ],
+   "atores": [
+    {
+     "id": "tito",
+     "x": 0,
+     "z": 0,
+     "expr": "preocupado",
+     "pose": "neutro",
+     "muda": [
+      {
+       "em": 0.7,
+       "expr": "chocado",
+       "pose": "susto"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "frases": [
+    5
+   ],
+   "cenario": "espaco",
+   "transicao": "flash",
+   "camera": {
+    "tipo": "geral",
+    "mov": "afasta"
+   },
+   "atores": [
+    {
+     "id": "tito",
+     "x": 0,
+     "z": 0,
+     "expr": "tonto",
+     "pose": "neutro"
+    }
+   ]
+  },
+  {
+   "frases": [
+    6
+   ],
+   "cenario": "vila_noite",
+   "camera": {
+    "tipo": "medio",
+    "mov": "aproxima"
+   },
+   "atores": [
+    {
+     "id": "bento",
+     "x": 0.3,
+     "z": 0,
+     "expr": "ideia",
+     "pose": "explicando",
+     "roupa": [
+      "jaleco"
+     ]
+    },
+    {
+     "id": "zuza",
+     "x": -0.6,
+     "z": 0.4,
+     "expr": "surpreso",
+     "pose": "neutro"
+    }
+   ]
+  },
+  {
+   "frases": [
+    7
+   ],
+   "cenario": "espaco",
+   "virada": true,
+   "camera": {
+    "tipo": "geral",
+    "mov": "aproxima"
+   },
+   "atores": [
+    {
+     "id": "tito",
+     "x": 0.45,
+     "z": 0,
+     "expr": "rindo",
+     "pose": "comemorando",
+     "espelhar": true
+    },
+    {
+     "id": "zuza",
+     "x": -0.5,
+     "z": 0.3,
+     "expr": "envergonhado",
+     "pose": "acenando"
+    }
+   ]
+  }
+ ],
+ "legenda": {
+  "amarelo": [
+   "lua",
+   "papelão",
+   "oitenta",
+   "dois",
+   "rolha",
+   "zuza"
+  ],
+  "vermelho": [
+   "explodiu"
+  ],
+  "impacto": [
+   "explodiu"
+  ],
+  "suave_desde_frase": 6
+ },
+ "som": {
+  "musica": "comica",
+  "efeitos": true
+ }
+}

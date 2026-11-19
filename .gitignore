@@ -1,0 +1,6 @@
+node_modules/
+projetos/*/quadros/
+projetos/*/stills/
+projetos/*/work/
+*.mp4
+!exemplo/*.mp4

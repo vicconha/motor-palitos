@@ -1,0 +1,466 @@
+{
+ "duracao": 32.774,
+ "frases": [
+  {
+   "texto": "Tito jurou que ia chegar à Lua com um foguete de papelão.",
+   "inicio": 0.25,
+   "fim": 4.058,
+   "palavras": [
+    {
+     "p": "Tito",
+     "inicio": 0.25,
+     "fim": 0.638
+    },
+    {
+     "p": "jurou",
+     "inicio": 0.638,
+     "fim": 1.025
+    },
+    {
+     "p": "que",
+     "inicio": 1.025,
+     "fim": 1.244
+    },
+    {
+     "p": "ia",
+     "inicio": 1.244,
+     "fim": 1.463
+    },
+    {
+     "p": "chegar",
+     "inicio": 1.463,
+     "fim": 1.851
+    },
+    {
+     "p": "à",
+     "inicio": 1.851,
+     "fim": 2.07
+    },
+    {
+     "p": "Lua",
+     "inicio": 2.07,
+     "fim": 2.289
+    },
+    {
+     "p": "com",
+     "inicio": 2.289,
+     "fim": 2.508
+    },
+    {
+     "p": "um",
+     "inicio": 2.508,
+     "fim": 2.727
+    },
+    {
+     "p": "foguete",
+     "inicio": 2.727,
+     "fim": 3.283
+    },
+    {
+     "p": "de",
+     "inicio": 3.283,
+     "fim": 3.502
+    },
+    {
+     "p": "papelão.",
+     "inicio": 3.502,
+     "fim": 4.058
+    }
+   ]
+  },
+  {
+   "texto": "A Zuza riu: vai voar até o telhado, Tito?",
+   "inicio": 4.538,
+   "fim": 7.404,
+   "palavras": [
+    {
+     "p": "A",
+     "inicio": 4.538,
+     "fim": 4.761
+    },
+    {
+     "p": "Zuza",
+     "inicio": 4.761,
+     "fim": 5.156
+    },
+    {
+     "p": "riu:",
+     "inicio": 5.156,
+     "fim": 5.379
+    },
+    {
+     "p": "vai",
+     "inicio": 5.379,
+     "fim": 5.602
+    },
+    {
+     "p": "voar",
+     "inicio": 5.602,
+     "fim": 5.825
+    },
+    {
+     "p": "até",
+     "inicio": 5.825,
+     "fim": 6.22
+    },
+    {
+     "p": "o",
+     "inicio": 6.22,
+     "fim": 6.443
+    },
+    {
+     "p": "telhado,",
+     "inicio": 6.443,
+     "fim": 7.009
+    },
+    {
+     "p": "Tito?",
+     "inicio": 7.009,
+     "fim": 7.404
+    }
+   ]
+  },
+  {
+   "texto": "Semanas depois, o foguete estava pronto, com oitenta e dois rolos de fita.",
+   "inicio": 7.885,
+   "fim": 12.971,
+   "palavras": [
+    {
+     "p": "Semanas",
+     "inicio": 7.885,
+     "fim": 8.466
+    },
+    {
+     "p": "depois,",
+     "inicio": 8.466,
+     "fim": 8.871
+    },
+    {
+     "p": "o",
+     "inicio": 8.871,
+     "fim": 9.099
+    },
+    {
+     "p": "foguete",
+     "inicio": 9.099,
+     "fim": 9.68
+    },
+    {
+     "p": "estava",
+     "inicio": 9.68,
+     "fim": 10.261
+    },
+    {
+     "p": "pronto,",
+     "inicio": 10.261,
+     "fim": 10.666
+    },
+    {
+     "p": "com",
+     "inicio": 10.666,
+     "fim": 10.894
+    },
+    {
+     "p": "oitenta",
+     "inicio": 10.894,
+     "fim": 11.475
+    },
+    {
+     "p": "e",
+     "inicio": 11.475,
+     "fim": 11.704
+    },
+    {
+     "p": "dois",
+     "inicio": 11.704,
+     "fim": 11.933
+    },
+    {
+     "p": "rolos",
+     "inicio": 11.933,
+     "fim": 12.337
+    },
+    {
+     "p": "de",
+     "inicio": 12.337,
+     "fim": 12.566
+    },
+    {
+     "p": "fita.",
+     "inicio": 12.566,
+     "fim": 12.971
+    }
+   ]
+  },
+  {
+   "texto": "Na contagem regressiva, a vila inteira parou para ver.",
+   "inicio": 13.452,
+   "fim": 17.202,
+   "palavras": [
+    {
+     "p": "Na",
+     "inicio": 13.452,
+     "fim": 13.676
+    },
+    {
+     "p": "contagem",
+     "inicio": 13.676,
+     "fim": 14.247
+    },
+    {
+     "p": "regressiva,",
+     "inicio": 14.247,
+     "fim": 14.99
+    },
+    {
+     "p": "a",
+     "inicio": 14.99,
+     "fim": 15.215
+    },
+    {
+     "p": "vila",
+     "inicio": 15.215,
+     "fim": 15.612
+    },
+    {
+     "p": "inteira",
+     "inicio": 15.612,
+     "fim": 16.183
+    },
+    {
+     "p": "parou",
+     "inicio": 16.183,
+     "fim": 16.58
+    },
+    {
+     "p": "para",
+     "inicio": 16.58,
+     "fim": 16.978
+    },
+    {
+     "p": "ver.",
+     "inicio": 16.978,
+     "fim": 17.202
+    }
+   ]
+  },
+  {
+   "texto": "Três, dois, um... e o foguete explodiu!",
+   "inicio": 17.683,
+   "fim": 19.844,
+   "palavras": [
+    {
+     "p": "Três,",
+     "inicio": 17.683,
+     "fim": 17.898
+    },
+    {
+     "p": "dois,",
+     "inicio": 17.898,
+     "fim": 18.112
+    },
+    {
+     "p": "um...",
+     "inicio": 18.112,
+     "fim": 18.327
+    },
+    {
+     "p": "e",
+     "inicio": 18.327,
+     "fim": 18.541
+    },
+    {
+     "p": "o",
+     "inicio": 18.541,
+     "fim": 18.755
+    },
+    {
+     "p": "foguete",
+     "inicio": 18.755,
+     "fim": 19.3
+    },
+    {
+     "p": "explodiu!",
+     "inicio": 19.3,
+     "fim": 19.844
+    }
+   ]
+  },
+  {
+   "texto": "Espera... como ele foi parar na Lua?",
+   "inicio": 20.326,
+   "fim": 22.698,
+   "palavras": [
+    {
+     "p": "Espera...",
+     "inicio": 20.326,
+     "fim": 20.881
+    },
+    {
+     "p": "como",
+     "inicio": 20.881,
+     "fim": 21.268
+    },
+    {
+     "p": "ele",
+     "inicio": 21.268,
+     "fim": 21.655
+    },
+    {
+     "p": "foi",
+     "inicio": 21.655,
+     "fim": 21.874
+    },
+    {
+     "p": "parar",
+     "inicio": 21.874,
+     "fim": 22.261
+    },
+    {
+     "p": "na",
+     "inicio": 22.261,
+     "fim": 22.48
+    },
+    {
+     "p": "Lua?",
+     "inicio": 22.48,
+     "fim": 22.698
+    }
+   ]
+  },
+  {
+   "texto": "Veja bem, a explosão lançou Tito para cima como uma rolha de garrafa.",
+   "inicio": 23.181,
+   "fim": 28.086,
+   "palavras": [
+    {
+     "p": "Veja",
+     "inicio": 23.181,
+     "fim": 23.572
+    },
+    {
+     "p": "bem,",
+     "inicio": 23.572,
+     "fim": 23.792
+    },
+    {
+     "p": "a",
+     "inicio": 23.792,
+     "fim": 24.013
+    },
+    {
+     "p": "explosão",
+     "inicio": 24.013,
+     "fim": 24.573
+    },
+    {
+     "p": "lançou",
+     "inicio": 24.573,
+     "fim": 24.963
+    },
+    {
+     "p": "Tito",
+     "inicio": 24.963,
+     "fim": 25.354
+    },
+    {
+     "p": "para",
+     "inicio": 25.354,
+     "fim": 25.744
+    },
+    {
+     "p": "cima",
+     "inicio": 25.744,
+     "fim": 26.134
+    },
+    {
+     "p": "como",
+     "inicio": 26.134,
+     "fim": 26.524
+    },
+    {
+     "p": "uma",
+     "inicio": 26.524,
+     "fim": 26.915
+    },
+    {
+     "p": "rolha",
+     "inicio": 26.915,
+     "fim": 27.305
+    },
+    {
+     "p": "de",
+     "inicio": 27.305,
+     "fim": 27.526
+    },
+    {
+     "p": "garrafa.",
+     "inicio": 27.526,
+     "fim": 28.086
+    }
+   ]
+  },
+  {
+   "texto": "E hoje quem pede carona para o espaço é a Zuza.",
+   "inicio": 28.568,
+   "fim": 32.294,
+   "palavras": [
+    {
+     "p": "E",
+     "inicio": 28.568,
+     "fim": 28.785
+    },
+    {
+     "p": "hoje",
+     "inicio": 28.785,
+     "fim": 29.17
+    },
+    {
+     "p": "quem",
+     "inicio": 29.17,
+     "fim": 29.387
+    },
+    {
+     "p": "pede",
+     "inicio": 29.387,
+     "fim": 29.771
+    },
+    {
+     "p": "carona",
+     "inicio": 29.771,
+     "fim": 30.322
+    },
+    {
+     "p": "para",
+     "inicio": 30.322,
+     "fim": 30.707
+    },
+    {
+     "p": "o",
+     "inicio": 30.707,
+     "fim": 30.924
+    },
+    {
+     "p": "espaço",
+     "inicio": 30.924,
+     "fim": 31.475
+    },
+    {
+     "p": "é",
+     "inicio": 31.475,
+     "fim": 31.692
+    },
+    {
+     "p": "a",
+     "inicio": 31.692,
+     "fim": 31.91
+    },
+    {
+     "p": "Zuza.",
+     "inicio": 31.91,
+     "fim": 32.294
+    }
+   ]
+  }
+ ]
+}

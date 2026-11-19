@@ -1,0 +1,8 @@
+{
+  "name": "motor-palitos",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Motor de shorts animados com o elenco de palitos (Tito, Zuza, Bento, Pipoca).",
+  "dependencies": { "three": "0.160.0" }
+}

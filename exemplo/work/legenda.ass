@@ -1,0 +1,76 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Palavra,Montserrat Black,92,&H00FFFFFF,&H00FFFFFF,&H00111111,&H78000000,0,0,0,0,100,100,1,0,1,8,3,5,60,60,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.20,0:00:00.59,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}Tito
+Dialogue: 0,0:00:00.59,0:00:00.97,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}jurou
+Dialogue: 0,0:00:00.97,0:00:01.41,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}que ia
+Dialogue: 0,0:00:01.41,0:00:01.80,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}chegar
+Dialogue: 0,0:00:01.80,0:00:02.24,Palavra,,0,0,0,,{\pos(540,1344)\c&H3FD2FF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}à Lua
+Dialogue: 0,0:00:02.24,0:00:02.68,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}com um
+Dialogue: 0,0:00:02.68,0:00:03.23,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}foguete
+Dialogue: 0,0:00:03.23,0:00:04.16,Palavra,,0,0,0,,{\pos(540,1344)\c&H3FD2FF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}de papelão.
+Dialogue: 0,0:00:04.49,0:00:05.11,Palavra,,0,0,0,,{\pos(540,1344)\c&H3FD2FF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}A Zuza
+Dialogue: 0,0:00:05.11,0:00:05.33,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}riu:
+Dialogue: 0,0:00:05.33,0:00:05.55,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}vai
+Dialogue: 0,0:00:05.55,0:00:05.78,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}voar
+Dialogue: 0,0:00:05.78,0:00:06.17,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}até
+Dialogue: 0,0:00:06.17,0:00:06.96,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}o telhado,
+Dialogue: 0,0:00:06.96,0:00:07.50,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}Tito?
+Dialogue: 0,0:00:07.83,0:00:08.42,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}Semanas
+Dialogue: 0,0:00:08.42,0:00:08.82,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}depois,
+Dialogue: 0,0:00:08.82,0:00:09.63,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}o foguete
+Dialogue: 0,0:00:09.63,0:00:10.21,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}estava
+Dialogue: 0,0:00:10.21,0:00:10.62,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}pronto,
+Dialogue: 0,0:00:10.62,0:00:11.42,Palavra,,0,0,0,,{\pos(540,1344)\c&H3FD2FF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}com oitenta
+Dialogue: 0,0:00:11.42,0:00:11.88,Palavra,,0,0,0,,{\pos(540,1344)\c&H3FD2FF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}e dois
+Dialogue: 0,0:00:11.88,0:00:12.29,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}rolos
+Dialogue: 0,0:00:12.29,0:00:13.07,Palavra,,0,0,0,,{\pos(540,1344)\fscx92\fscy92\t(0,80,\fscx100\fscy100)}de fita.
+Dialogue: 0,0:00:13.40,0:00:14.20,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}Na contagem
+Dialogue: 0,0:00:14.20,0:00:14.94,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}regressiva,
+Dialogue: 0,0:00:14.94,0:00:15.56,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}a vila
+Dialogue: 0,0:00:15.56,0:00:16.13,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}inteira
+Dialogue: 0,0:00:16.13,0:00:16.53,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}parou
+Dialogue: 0,0:00:16.53,0:00:16.93,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}para
+Dialogue: 0,0:00:16.93,0:00:17.30,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}ver.
+Dialogue: 0,0:00:17.63,0:00:17.85,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}Três,
+Dialogue: 0,0:00:17.85,0:00:18.06,Palavra,,0,0,0,,{\pos(540,1344)\c&H3FD2FF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}dois,
+Dialogue: 0,0:00:18.06,0:00:18.49,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}um... e
+Dialogue: 0,0:00:18.49,0:00:19.25,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}o foguete
+Dialogue: 1,0:00:19.25,0:00:19.28,Palavra,,0,0,0,,{\pos(546,1340)\c&H4A5AFF&\fscx80\fscy80}EXPLODIU!
+Dialogue: 1,0:00:19.28,0:00:19.32,Palavra,,0,0,0,,{\pos(534,1347)\c&H4A5AFF&\fscx90\fscy90}EXPLODIU!
+Dialogue: 1,0:00:19.32,0:00:19.35,Palavra,,0,0,0,,{\pos(544,1349)\c&H4A5AFF&\fscx100\fscy100}EXPLODIU!
+Dialogue: 1,0:00:19.35,0:00:19.38,Palavra,,0,0,0,,{\pos(537,1339)\c&H4A5AFF&\fscx110\fscy110}EXPLODIU!
+Dialogue: 0,0:00:19.38,0:00:19.94,Palavra,,0,0,0,,{\pos(540,1344)\c&H4A5AFF&\fscx118\fscy118\t(0,120,\fscx108\fscy108)}EXPLODIU!
+Dialogue: 0,0:00:20.28,0:00:20.83,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}Espera...
+Dialogue: 0,0:00:20.83,0:00:21.22,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}como
+Dialogue: 0,0:00:21.22,0:00:21.61,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}ele
+Dialogue: 0,0:00:21.61,0:00:21.82,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}foi
+Dialogue: 0,0:00:21.82,0:00:22.21,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}parar
+Dialogue: 0,0:00:22.21,0:00:22.80,Palavra,,0,0,0,,{\pos(540,1344)\c&H3FD2FF&\fscx92\fscy92\t(0,80,\fscx100\fscy100)}na Lua?
+Dialogue: 0,0:00:23.13,0:00:23.52,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}Veja
+Dialogue: 0,0:00:23.52,0:00:23.74,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}bem,
+Dialogue: 0,0:00:23.74,0:00:24.52,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}a explosão
+Dialogue: 0,0:00:24.52,0:00:24.91,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}lançou
+Dialogue: 0,0:00:24.91,0:00:25.30,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}Tito
+Dialogue: 0,0:00:25.30,0:00:25.69,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}para
+Dialogue: 0,0:00:25.69,0:00:26.08,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}cima
+Dialogue: 0,0:00:26.08,0:00:26.47,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}como
+Dialogue: 0,0:00:26.47,0:00:27.25,Palavra,,0,0,0,,{\pos(540,1344)\c&H3FD2FF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}uma rolha
+Dialogue: 0,0:00:27.25,0:00:28.19,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}de garrafa.
+Dialogue: 0,0:00:28.52,0:00:29.12,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}E hoje
+Dialogue: 0,0:00:29.12,0:00:29.34,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}quem
+Dialogue: 0,0:00:29.34,0:00:29.72,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}pede
+Dialogue: 0,0:00:29.72,0:00:30.27,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}carona
+Dialogue: 0,0:00:30.27,0:00:30.66,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}para
+Dialogue: 0,0:00:30.66,0:00:31.43,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}o espaço
+Dialogue: 0,0:00:31.43,0:00:31.86,Palavra,,0,0,0,,{\pos(540,1344)\c&HFFE6CF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}é a
+Dialogue: 0,0:00:31.86,0:00:32.59,Palavra,,0,0,0,,{\pos(540,1344)\c&H3FD2FF&\fscx96\fscy96\t(0,120,\fscx100\fscy100)}Zuza.
